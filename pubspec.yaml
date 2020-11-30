@@ -33,6 +33,19 @@ dependencies:
   clipboard: ^0.1.2+8
   video_player: any
   chewie: any
+  need_resume: any
+  flutter_ffmpeg: ^0.3.0
+  path_provider: ^1.4.4
+  hive: ^1.4.4+1
+  hive_flutter: ^0.3.1
+  hooks_riverpod: ^0.11.2
+  aes_crypt: ^0.1.1
+  open_file: ^3.0.1
+  shared_preferences: ^0.5.12+4
+  m3u8_downloader:
+    git:
+      url: https://github.com/lytian/m3u8_downloader.git
+
 
 
 
